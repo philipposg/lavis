@@ -21,7 +21,7 @@ sentencepiece
 spacy
 streamlit
 timm==0.4.12
-torch==1.11.0
+torch==1.13.0
 torchvision
 tqdm
 transformers==4.27.0
@@ -31,7 +31,7 @@ torchaudio
 soundfile
 moviepy
 nltk
-peft==0.4
+peft#==0.4
 
 easydict==1.9
 pyyaml_env_tag==0.1

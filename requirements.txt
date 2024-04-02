@@ -21,7 +21,7 @@ sentencepiece
 spacy
 streamlit
 timm==0.4.12
-torch=1.11.0
+torch==1.11.0
 torchvision
 tqdm
 transformers==4.27.0

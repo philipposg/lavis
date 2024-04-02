@@ -31,7 +31,7 @@ torchaudio
 soundfile
 moviepy
 nltk
-peft==0.7
+peft==0.4
 
 easydict==1.9
 pyyaml_env_tag==0.1
